@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By FERI STORE.
+   * Contact Me on wa.me/62857915132767
+   * Follow https://github.com/feritod9
 */
 
 require('./config')
