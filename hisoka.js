@@ -1,7 +1,7 @@
 /**
    * Create By FERI BOTZ.
    * Contact Me on wa.me/62857915132767
-   * Follow https://github.com/DikaArdnt
+   * Follow https://github.com/feritod9
 */
 
 require('./config')
