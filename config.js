@@ -1,5 +1,5 @@
 /**
-   * Create By Dika Ardnt.
+   * Create By FERI BOTZ.
    * Contact Me on wa.me/62857915132767
    * Follow https://github.com/feritod9
 */
